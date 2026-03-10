@@ -65,6 +65,15 @@ The extracted data was imported into Excel for deep-dive analysis.
 - Pivot Analysis: Created summaries for Revenue per State, Year, and Store to identify top-performing regions.
 - Dynamic Filtering: Implemented Slicers to allow users to toggle between different years and regions instantly.
 
+### Data Image
+![Data Image](./Images/Excel/Data.png)
+
+### PivotTable Image
+![PivotTable Image](./Images/Excel/PivotTables.png)
+
+### Dashboard Image
+![Dashboard Image](./Images/Excel/Dashboard.png)
+
 ---
 
 ## Phase 3: Tableau Executive Dashboard
@@ -75,8 +84,17 @@ Key Features:
 - Trend Lines: Comparison of monthly revenue growth across 2016, 2017, and 2018.
 - Executive Metrics: "Big Angry Numbers" for Total Revenue, Total Units, and Unique Customer counts.
 
+### Dashboard Image
+![Dashboard Image](./Images/Tableu/Dashboard.png)
+
+### Dashboard Demo
+![Dashboard Demo](./Images/Tableu/DEMO_Dashboard.gif)
+
+
 ---
 
 ## Repository Contents
-- Book1.xlsx: Contains the raw data, Pivot Tables, and the Excel dashboard.
-- Dashboard 1.jpg: A screenshot of the final Tableau visualization.
+- Bike_dashboard.xlsx: Contains the raw data, Pivot Tables, and the Excel dashboard.
+- Bike_dashboard.twb: Tableu file 
+- Images: File to find all the visualization
+
